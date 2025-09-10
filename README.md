@@ -1,4 +1,8 @@
 # Password Validator
+Student Name: Tran Hong Nghiep
+
+Due Date: August 9th, 2023
+
 Write a program to validate user passwords based on certain rules. The program should prompt the user to enter a password and check if it satisfies the following conditions:
 * The password must be at least 8 characters long and not exceed 20 characters.
 * The password must contain at least one uppercase letter, one lowercase letter, one digit, and one special character (e.g., @, #, $, etc.).
