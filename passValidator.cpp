@@ -13,7 +13,7 @@ string newPassword;
 void checkInputSyntax(string newStr);
 // Function to check Password Length before Setting up a New Password
 string addInput(string newInput, int limitMin, int limitMax);
-int passValidator() {
+int main() {
     // Introducion
     cout<<"Note - Syntax to Setup Password"<<endl;
     cout<<"1. Character Limits from "<<charLengthMin<<" to "<<charLengthMax<<endl;
