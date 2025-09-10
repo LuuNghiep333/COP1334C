@@ -1,6 +1,8 @@
 ## Exercises:
 1. Write a program to guess a number range of 1 to 100
-2. 
+2. Write a program to convert uppercase letters to their corresponding telephone digits.
+3. A new lawn service provides three types of services: mowing, fertilizing, and planting trees. The cost of mowing is $35.00 per 5,000 square yards, fertilizing is $30.00 per application, and planting a tree is $50.00. Write an algorithm that prompts the user to enter the area of the lawn, the number of fertilizing applications, and the number of trees to be planted. The algorithm then determines the billing amount. (Assume that the user orders all three services.)
+4. 
 
 ## Final Project
 * Student Name: Tran Hong Nghiep
