@@ -1,7 +1,3 @@
-
-
-Due Date: August 9th, 2023
-
 ## Exercises:
 1. Write a program to guess a number range of 1 to 100
 2. 
