@@ -1,7 +1,14 @@
-# Password Validator
-Student Name: Tran Hong Nghiep
+
 
 Due Date: August 9th, 2023
+
+## Exercises:
+1. Write a program to guess a number range of 1 to 100
+2. 
+
+## Final Project
+* Student Name: Tran Hong Nghiep
+* Due Date: August 9th, 2023
 
 Write a program to validate user passwords based on certain rules. The program should prompt the user to enter a password and check if it satisfies the following conditions:
 * The password must be at least 8 characters long and not exceed 20 characters.
