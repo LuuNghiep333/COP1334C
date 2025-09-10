@@ -2,7 +2,8 @@
 1. Write a program to guess a number range of 1 to 100
 2. Write a program to convert uppercase letters to their corresponding telephone digits.
 3. A new lawn service provides three types of services: mowing, fertilizing, and planting trees. The cost of mowing is $35.00 per 5,000 square yards, fertilizing is $30.00 per application, and planting a tree is $50.00. Write an algorithm that prompts the user to enter the area of the lawn, the number of fertilizing applications, and the number of trees to be planted. The algorithm then determines the billing amount. (Assume that the user orders all three services.)
-4. 
+4. Write a program that prompts the user to enter five test scores and then prints the average test score.
+5. A local zoo offers three different memberships: an individual membership for $99 per year, a dual membership for $175 per year, and a family membership for $225 per year. The membership director wants a program that displays the total membership revenue for the year, as well as the amount of the total revenue contributed by each membership type.
 
 ## Final Project
 * Student Name: Tran Hong Nghiep
