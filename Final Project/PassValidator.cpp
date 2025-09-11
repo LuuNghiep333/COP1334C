@@ -2,6 +2,7 @@
 #include <string>
 #include <cctype>
 using namespace std;
+
 // Remove /* */ to test the output of the program
 // Global Inputs to Validate Password
 const int charLengthMin = 8,
@@ -9,8 +10,10 @@ const int charLengthMin = 8,
 int invalidChars,           
     missCharTypes;           
 string newPassword;
+
 // Function to count Invalid Characters and Missing Character Types
 void checkInputSyntax(string newStr);
+
 // Function to check Password Length before Setting up a New Password
 string addInput(string newInput, int limitMin, int limitMax);
 int main() {
@@ -26,6 +29,7 @@ int main() {
     */
     return 0;
 }
+
 // Details of Each Function
 string addInput(string newInput, int limitMin, int limitMax) {
     int charLength;
@@ -48,6 +52,7 @@ string addInput(string newInput, int limitMin, int limitMax) {
     while(charLength < limitMin || charLength > limitMax);
     return newInput;
 }
+
 void checkInputSyntax(string newStr) {
     invalidChars = 0;       // Default: User Input is No-Error
     missCharTypes = 4;      // Default: User Input misses 4 Character Types
