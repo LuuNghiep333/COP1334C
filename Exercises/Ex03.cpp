@@ -1,16 +1,18 @@
 #include <iostream>
 using namespace std;
+
 int checkFertilize(int input);
 int checkPlant(int input);
+
 int main()
 {
     int area, num, total, priceArea, priceFertilized, pricePlanted = 0;
     cout<<"Welcome to lawn service!"<<endl;
-    cout<<"How large is your lawm? \n Area: ";
+    cout<<"How large is your lawn? \n Area: ";
     cin>>area;
     if (area < 5000)
     {
-        cout<<"Lucky for you, You get Free Mowing!"<<endl;
+        cout<<"Lucky for you, you get Free Mowing!"<<endl;
         priceArea = 0;
     }
     else priceArea = 35*( area/5000);
@@ -20,6 +22,7 @@ int main()
     cout<<"Your bill is $"<<total;
     return 0;
 }
+
 int checkFertilize(int input)
 {
     char check;
@@ -34,6 +37,7 @@ int checkFertilize(int input)
     }
     return input;
 }
+
 int checkPlant(int input)
 {
     char check;
